@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+#  affiche toutes les connexions et les ports système, à la fois ceux en état d'écoute (listening) et ceux qui sont établis (established).
 netstat -a
